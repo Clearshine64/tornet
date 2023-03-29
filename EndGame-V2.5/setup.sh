@@ -197,7 +197,7 @@ export LUAJIT_INC=/usr/local/include/luajit-2.1
 --add-dynamic-module=headers-more-nginx-module \
 --add-dynamic-module=socks-nginx-module \
 --add-dynamic-module=echo-nginx-module \
- --add-dynamic-module=ngx_devel_kit \
+--add-dynamic-module=ngx_devel_kit \
 --add-dynamic-module=lua-nginx-module 
 
 #https://github.com/c64bob/lua-resty-aes/raw/master/lib/resty/aes_functions.lua
